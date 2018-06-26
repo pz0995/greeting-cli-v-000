@@ -1,5 +1,5 @@
-name = " "
 puts "Hi! I'm HAL, what's your name? "
+name = " "
 name = gets.strip
 
 
